@@ -1,6 +1,6 @@
 # SPOTJOBS
 END-TO-END PU PLACEMENT COMMUNICATION PORTAL <br><br>
-Access the code from here:- 
+Access the code from here:- https://drive.google.com/drive/folders/18H3wyowjhC6bfHa1rcCoCjRYe5T2I9Zm?usp=drive_link
 
 Snapshots of the Outcomes:-
 
